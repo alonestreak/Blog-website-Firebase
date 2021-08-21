@@ -1,5 +1,5 @@
 # Blog-website-Firebase
-Link To deployed website: https://q-blog-website-3a248.firebaseapp.com/ <br/>
+Link To deployed website: https://q-blog-website-3a248.web.app/ <br/>
 Screenshots of website: <br/>
 **login page** <br/>
 ![GIF](readme_resource/1.png)<br/>
